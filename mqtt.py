@@ -51,6 +51,7 @@ def run():
     # receivedData = client.subscribe(topic, 2)
     # print(receivedData)
     client.loop_stop()
+    # add comment for changing commit testing
 
 
 if __name__ == '__main__':
